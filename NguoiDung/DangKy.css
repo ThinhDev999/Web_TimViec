@@ -1,0 +1,91 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.main .khung1{
+    padding: 50px 10px 50px 100px;
+    
+}
+.main .khung1 .content h1{
+    color: #00b4d8;
+    font-weight: bold;
+}
+.main .khung1 .content h3{
+    /* color: rgb(21, 196, 33); */
+    font-weight: bold;
+}
+.main .khung1 .content p{
+    /* color: rgb(21, 196, 33); */
+  width: 400px; 
+}
+.main .khung1 .dangky{
+    margin-top: 20px;
+}
+.main .khung1 .dangky .ten{
+    margin-bottom: 20px;
+}
+.main .khung1 .dangky .email{
+    margin-bottom: 20px;
+}
+.main .khung1 .dangky .matkhau{
+    margin-bottom: 20px;
+}
+.main .khung1 .dangky .box input{
+    width: 400px;
+    border: 1px solid #00b4d8;
+    border-radius: 6px;
+    padding: 10px 15px 10px 30px;
+}
+.main .khung1 .dangky .box i{
+    position: absolute;
+    left:110px;
+    line-height: 40px;
+    color: #00b4d8;
+ }
+
+.main .khung1 .dangky button{
+  
+   color: white;
+   font-weight: bold;
+   padding: 10px 169px 10px 169px;
+   border-radius: 7px;
+   background-color: #00b4d8;
+   border: none;
+}
+
+.main .khung1 .text-content .content-dangnhap{
+    display: flex;
+    justify-content: flex-start;
+
+}
+.main .khung1 .text-content .content-dangnhap .dangnhap{
+
+    text-decoration: none;
+    color:#00b4d8;
+    font-weight: bold;
+
+} 
+.main .khung1 .text-content {
+
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+    
+
+}
+.main .khung1 .text-content div {
+  margin-right: 60px;
+    
+
+}
+.main .khung2{
+    background:rgb(240, 255, 255);
+    padding: 200px 160px 100px 160px;
+    width: auto;
+    height: auto;
+}
+
+.main .khung2 img{
+    align-items: center;
+}
+/* https://www.topcv.vn/v4/image/sec-safe.png */
